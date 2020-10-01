@@ -10,3 +10,6 @@ O frontend é responsável pelo lado das ONGs, onde elas se cadastram, fazem log
 No mobile, as pessoas interessadas em ajudar, vizualizam todos os casos cadastrados, de todas as ONGs disponíveis, e podem entrar em contato via email ou whatsApp.
 
 No backend, é feita a conexão com o banco de dados, a validação, e alguns testes (TDD).
+
+[![solarized dualmode](https://github.com/manuelabognar/beTheHero/blob/master/screenshot/bethehero.gif)](#features)
+
